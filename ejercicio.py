@@ -13,11 +13,11 @@ st.write(
 base_url = "https://raw.githubusercontent.com/christlv/Avance01-Grupo-2/timeline_segmentacion/main/"
 
 imagenes = {
-   1: base_url + "segmentacion1.png",
-   2: base_url + "segmentacion2.png",
-   3: base_url + "segmentacion3.png",
-   4: base_url + "segmentacion4.png",
-   5: base_url + "segmentacion5.png"
+   1: base_url + "segmentacion1.jpg",
+   2: base_url + "segmentacion2.jpg",
+   3: base_url + "segmentacion3.jpg",
+   4: base_url + "segmentacion4.jpg",
+   5: base_url + "segmentacion5.jpg"
 }
 
 # Slider
