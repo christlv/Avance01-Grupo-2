@@ -11,7 +11,8 @@ st.write(
 
 # URLs de imágenes en GitHub (modifícalas según tus archivos)
 
-base_url = "https://raw.githubusercontent.com/christlv/Avance01-Grupo-2/timeline_segmentacion/main/"
+
+base_url = "https://raw.githubusercontent.com/christlv/Avance01-Grupo-2/timeline_segmentacion/main/timeline_segmentacion/"
 
 
 imagenes = {
